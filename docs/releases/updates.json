@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "url": "https://github.com/mohammedassaf97/wmsphere-updates/releases/download/v1.0.0/MyApp-1.0.0-setup.exe",
+    "changelog": "https://mohammedassaf97.github.io/wmsphere-updates/releases/1.0.0-notes.html",
+    "mandatory": false,
+    "checksum": "sha256:PUT_SHA256_HERE"
+}
